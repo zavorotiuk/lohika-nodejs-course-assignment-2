@@ -1,0 +1,23 @@
+{
+  "name": "secure-password-generator",
+  "version": "0.0.1",
+  "description": "Utility for secure password generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zavorotiuk/lohika-nodejs-course-assignment-2.git"
+  },
+  "author": "zavorotiuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zavorotiuk/lohika-nodejs-course-assignment-2/issues"
+  },
+  "homepage": "https://github.com/zavorotiuk/lohika-nodejs-course-assignment-2#readme",
+  "dependencies": {
+    "commander": "^2.18.0",
+    "password-generator": "^2.2.0"
+  }
+}
